@@ -2,13 +2,11 @@
             width: 150px;
 }
 #pading{
-    padding: 20px 50px;
+    padding: 20px 20px;
     }
 .fondo{
-    background-color: rgb(30, 29, 29);
-}
-.background{
-    background-color: rgb(61, 21, 21);
+    background-image: url(Recurso\ 1.svg);
+    background-size: 1350px;
 }
 .texto{
     color: aliceblue;
